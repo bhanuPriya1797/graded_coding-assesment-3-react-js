@@ -1,0 +1,35 @@
+
+.detailsection
+{
+    padding: 20px;
+    background-color: rgb(108, 213, 255);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+    overflow: scroll;
+}
+
+.title
+{
+  color: brown;
+}
+
+.poster
+{
+    margin-top: 10px;
+    width: 400px;
+    height: 400px;
+
+}
+
+.actors
+{
+    color: crimson;
+}
+
+.story
+{
+    color: brown;
+
+}

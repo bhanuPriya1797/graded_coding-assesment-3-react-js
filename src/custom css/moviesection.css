@@ -1,0 +1,31 @@
+.g-4
+{
+    padding: 20px;
+}
+
+.moviesectionheader
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(19, 225, 239);
+}
+
+.searchbox
+{
+    margin: 20px;
+    width: 40%;
+    height: 5vh;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+
+.fontsearch
+{
+    margin-top: 25px;
+     
+    font-size: 20px;
+    position: absolute;
+    right: 31%;
+}

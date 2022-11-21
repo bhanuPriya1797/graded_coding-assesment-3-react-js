@@ -1,0 +1,22 @@
+.navlink
+{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    transition: all 0.1s;
+    padding: 0 10px 0 10px;
+}
+
+.active
+{
+    margin-left: 20px;
+    background-color: rgb(226, 245, 18);
+    border-radius: 5px;
+    padding: 0 10px 0 10px;
+    text-decoration: none;
+    
+
+    
+}
+
+
